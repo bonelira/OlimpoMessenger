@@ -17,4 +17,4 @@ git clone https://github.com/bonelira/OlimpoMessenger.git
 3. vá para a classe "MessengerApplication.java" e 'rode' a main
    ![code](https://github.com/bonelira/OlimpoMessenger/assets/64617848/9f9fb0c2-20d0-4981-9ec7-162177f3753c)
 
-4. Após isso é só abrir o local host entrando no seu navegador padrão e colocando na barra de pesquisas e digitar localhost:8080 ou clicar aqui: [localhost: 8080](http://localhost:8080/)
+4. Após isso é só abrir o local host entrando no seu navegador padrão e colocando na barra de pesquisas localhost:8080 ou clicar aqui: [localhost: 8080](http://localhost:8080/)
