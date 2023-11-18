@@ -1,5 +1,6 @@
 # Olimpo Messenger APP ou
-## Hermes
+## Hermes - _O mensageiro do Olimpo_
+
 
 ![Hermes](https://github.com/bonelira/OlimpoMessenger/assets/64617848/58108c51-970c-4593-a17a-bed26c797645)
 
